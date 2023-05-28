@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "alertcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/AlertController",
+      "state" : {
+        "revision" : "97752396080b10474fee827c6646c6af71c703f2",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
